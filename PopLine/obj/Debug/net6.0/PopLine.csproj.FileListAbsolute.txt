@@ -1,0 +1,15 @@
+C:\Users\andre\Downloads\c#\PopLine\PopLine\bin\Debug\net6.0\PopLine.exe
+C:\Users\andre\Downloads\c#\PopLine\PopLine\bin\Debug\net6.0\PopLine.deps.json
+C:\Users\andre\Downloads\c#\PopLine\PopLine\bin\Debug\net6.0\PopLine.runtimeconfig.json
+C:\Users\andre\Downloads\c#\PopLine\PopLine\bin\Debug\net6.0\PopLine.dll
+C:\Users\andre\Downloads\c#\PopLine\PopLine\bin\Debug\net6.0\PopLine.pdb
+C:\Users\andre\Downloads\c#\PopLine\PopLine\obj\Debug\net6.0\PopLine.csproj.AssemblyReference.cache
+C:\Users\andre\Downloads\c#\PopLine\PopLine\obj\Debug\net6.0\PopLine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Downloads\c#\PopLine\PopLine\obj\Debug\net6.0\PopLine.AssemblyInfoInputs.cache
+C:\Users\andre\Downloads\c#\PopLine\PopLine\obj\Debug\net6.0\PopLine.AssemblyInfo.cs
+C:\Users\andre\Downloads\c#\PopLine\PopLine\obj\Debug\net6.0\PopLine.csproj.CoreCompileInputs.cache
+C:\Users\andre\Downloads\c#\PopLine\PopLine\obj\Debug\net6.0\PopLine.dll
+C:\Users\andre\Downloads\c#\PopLine\PopLine\obj\Debug\net6.0\refint\PopLine.dll
+C:\Users\andre\Downloads\c#\PopLine\PopLine\obj\Debug\net6.0\PopLine.pdb
+C:\Users\andre\Downloads\c#\PopLine\PopLine\obj\Debug\net6.0\PopLine.genruntimeconfig.cache
+C:\Users\andre\Downloads\c#\PopLine\PopLine\obj\Debug\net6.0\ref\PopLine.dll
